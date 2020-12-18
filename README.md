@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/raspberrypi-go-drivers/activebuzzer)](https://goreportcard.com/report/github.com/raspberrypi-go-drivers/activebuzzer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Package activebuzzer is a driver allowing to control an avtive buzzer from GPIO pin
+Package activebuzzer is a driver allowing to control an active buzzer from GPIO pin
 
 ## Documentation
 
